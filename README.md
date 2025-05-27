@@ -14,7 +14,7 @@
 - New technologies and tools in web development
 
 ## 📫 Connect with me
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/abhishek-padesur-1616-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
 - [Instagram](#)
 
 ---
