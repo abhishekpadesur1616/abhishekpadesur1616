@@ -1,12 +1,25 @@
-## About Me
+# 👋 Hi, I’m Abhishek
 
-- 🎓 **Education:** Master's in Computer Applications
-- 💻 **Skills:** Python, Bootstrap, JavaScript, HTML, CSS
-- 🏆 **Core Value:** Consistency Matters
-- 📚 **Interests:** Learning technology, staying updated with new trends
-- 🌐 **Connect with Me:**
-  - [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-abhishek-padesur-1616-](https://www.linkedin.com/in/abhishek-padesur-1616-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
-  - [Gmail](mailto:YOUR-EMAIL@gmail.com)
+## 👨‍🎓 Education
+- Master’s in Computer Applications
+
+## 💻 Skills
+- HTML, CSS, JavaScript
+- PHP & MySQL
+
+## 💡 Motto
+- **Consistency Matters**
+
+## 🌱 Currently Learning
+- New technologies and tools in web development
+
+## 📫 Connect with me
+- [LinkedIn](#)  
+- [Instagram](#)
+
+---
+
+Feel free to update the LinkedIn and Instagram links with your actual profiles!
 <!---
 abhishekpadesur1616/abhishekpadesur1616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
