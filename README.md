@@ -16,6 +16,7 @@
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/abhishek-padesur-1616-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
 - [Instagram](https://www.instagram.com/abhishek__padesur?igsh=MXM2cTZsYnJiOGhwZQ==)
+- Gmail: abhishekpadesur7@gmail.com
 
 ---
 
